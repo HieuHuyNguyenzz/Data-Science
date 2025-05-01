@@ -1,6 +1,6 @@
 # Data Science
 
-## he Ascendance of Data (Sự lên ngôi của dữ liệu)
+## The Ascendance of Data (Sự lên ngôi của dữ liệu)
 
 - Chúng ta sống trong một thế giới đang chìm đắm trong dữ liệu.
 - Internet tự bản thân nó là một biểu đồ kiến thức lớn chứa đựng một bách khoa toàn thư được liên kết chéo
